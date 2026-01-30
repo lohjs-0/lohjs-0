@@ -9,14 +9,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: Generate pacman
+        uses: Platane/pacman-contribution-graph@v1
         with:
-          github_user_name: lohjs
+          github_user_name: Lohjs
 
-      - name: Push generated pacman
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
