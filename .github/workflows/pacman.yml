@@ -1,24 +1,31 @@
-name: Generate Pacman
-
-permissions:
-  contents: write
+name: Generate pacman animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+    - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    steps:
-      - name: Generate pacman
-        uses: Platane/pacman-contribution-graph@v1
-        with:
-          github_user_name: lohjs
+    timeout-minutes: 5
 
-      - name: Deploy
-        uses: crazy-max/ghaction-github-pages@v3
+    steps:
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ lohjs-0 }}
+
+
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
