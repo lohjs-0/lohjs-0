@@ -1,8 +1,17 @@
+<!-- BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hello!&fontSize=48&fontColor=ffffff"/>
+</div>
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lohjs-0&theme=radical)
+<div align="center">
+Desenvolvedora em formação focada em Backend 
+Estudando Node.js, PHP, MySQL, PostgreSQL, SQLite e APIs REST  
+Construindo projetos e evoluindo um commit por vez  
+Interesse em Backend, automação e dados
+</div>
 
-
+</br>
 
 <div align="center">
 
@@ -22,11 +31,6 @@
 
 </div>
 
-## 🚀 Projetos em Destaque
-
-🔹 CRUD em PHP e MySQL  
-Sistema completo com autenticação e operações CRUD.  
-➡️ https://github.com/lohjs-0/crud-php  
 
 
 
