@@ -17,7 +17,6 @@ Interesse em Backend, automação e dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
 [![Instagram](https://img.shields.io/badge/Instagram-E100FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
-[![Dev.to](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/lohjs0)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
