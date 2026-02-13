@@ -5,10 +5,9 @@
 
 
 <div align="center">
-Desenvolvedora em formação focada em Backend 
-Estudando Node.js, PHP, MySQL, PostgreSQL, SQLite e APIs REST  
-Construindo projetos e evoluindo um commit por vez  
-Interesse em Backend, automação e dados
+Desenvolvedora em formação Full Stack<br/>
+  Atualmente estou direcionando meus estudos para C# e ASP.NET Core, além de bancos de dados SQL, e venho aplicando esse conhecimento em projetos pessoais, desenvolvendo aplicações que envolvem back-end, banco de dados e consumo de APIs no front-end. 
+Também possuo experiência prévia com Node.js, JavaScript, HTML, CSS, PHP, React, MySQL e PostgreSQL.
 </div>
 
 </br>
