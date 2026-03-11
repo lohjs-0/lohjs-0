@@ -4,6 +4,9 @@
   <img src="ae588791a9fd817511966ef62e36825e.jpg" alt="Banner de Mitologia" width="100%">
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
+
 </div>
 
 ----
@@ -22,17 +25,8 @@
   </div>
 <br clear="right">
 
-
-
-
-
-
-</br>
-
+---
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
 
 
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white )
