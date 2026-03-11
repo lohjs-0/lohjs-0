@@ -8,23 +8,21 @@
 
 ----
 
-<div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-      <td width="65%" align="left" valign="top" style="border: none; padding-right: 20px;">
-        <p>Full Stack Developer in Training</p>
-        <p>
-          Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, as well as <b>SQL databases</b>, and I have been applying this knowledge to personal projects, developing applications that involve back-end, databases, and API consumption on the front-end.
-        </p>
-        <p>
-          I also have experience with <b>Node.js, JavaScript, HTML, CSS, PHP, React, MySQL, and PostgreSQL</b>.
-        </p>
-      </td>
-      <td width="35%" align="right" valign="middle" style="border: none;">
-        <img src="URL_DA_SUA_IMAGEM_DO_PINTEREST" alt="Decorative Image" width="220px" style="border-radius: 15px;">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+  <img src="0fb73259393db2e77b977deba226c649.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <div>
+  <p>Full Stack Developer in Training</p>>
+  Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, as well as <b>SQL databases</b>, 
+                  and I have been applying this knowledge to personal projects, 
+           developing applications that involve back-end, databases, and API 
+                 consumption on the front-end.
+  <br><br>
+  I also have experience with <b>Node.js, JavaScript, HTML, CSS, PHP, React, MySQL, and PostgreSQL</b>.
+</p>
+  </div>
+<br clear="right">
+
+
 
 
 
