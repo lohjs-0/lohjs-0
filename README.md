@@ -12,7 +12,7 @@
 ----
 
 <p align="left">
-  <img src="0fb73259393db2e77b977deba226c649.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="5905ba80-1cfc-11f1-b826-57be7c88f6db.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <p>Full Stack Developer in Training</p>>
   Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, as well as <b>SQL databases</b>, 
