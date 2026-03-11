@@ -49,8 +49,6 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white )
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-black?style=for-the-badge&logo=.net&logoColor=white )
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white )
-![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel&logoColor=white )
-
 
 
  </div>
