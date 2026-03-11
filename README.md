@@ -1,17 +1,33 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hello!&fontSize=48&fontColor=ffffff"/>
+  <p align="center">
+  <img src="ae588791a9fd817511966ef62e36825e.jpg" alt="Banner de Mitologia" width="100%">
+</p>
+
 </div>
 
+----
 
 <div align="center">
-Full Stack Developer in Training<br/>
-
-Currently, I am focusing my studies on C# and ASP.NET Core, as well as SQL databases, and I have been applying this knowledge to personal projects, developing applications that involve back-end, databases, and API consumption on the front-end.
-
-I also have experience with Node.js, JavaScript, HTML, CSS, PHP, React, MySQL, and PostgreSQL.
-
+  <table border="0" style="border-collapse: collapse; border: none;">
+      <td width="65%" align="left" valign="top" style="border: none; padding-right: 20px;">
+        <p>Full Stack Developer in Training</p>
+        <p>
+          Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, as well as <b>SQL databases</b>, and I have been applying this knowledge to personal projects, developing applications that involve back-end, databases, and API consumption on the front-end.
+        </p>
+        <p>
+          I also have experience with <b>Node.js, JavaScript, HTML, CSS, PHP, React, MySQL, and PostgreSQL</b>.
+        </p>
+      </td>
+      <td width="35%" align="right" valign="middle" style="border: none;">
+        <img src="URL_DA_SUA_IMAGEM_DO_PINTEREST" alt="Decorative Image" width="220px" style="border-radius: 15px;">
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
 
 </br>
 
