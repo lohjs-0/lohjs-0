@@ -5,9 +5,12 @@
 
 
 <div align="center">
-Desenvolvedora em formação Full Stack<br/>
-  Atualmente estou direcionando meus estudos para C# e ASP.NET Core, além de bancos de dados SQL, e venho aplicando esse conhecimento em projetos pessoais, desenvolvendo aplicações que envolvem back-end, banco de dados e consumo de APIs no front-end. 
-Também possuo experiência prévia com Node.js, JavaScript, HTML, CSS, PHP, React, MySQL e PostgreSQL.
+Full Stack Developer in Training<br/>
+
+Currently, I am focusing my studies on C# and ASP.NET Core, as well as SQL databases, and I have been applying this knowledge to personal projects, developing applications that involve back-end, databases, and API consumption on the front-end.
+
+I also have experience with Node.js, JavaScript, HTML, CSS, PHP, React, MySQL, and PostgreSQL.
+
 </div>
 
 </br>
