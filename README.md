@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
   <p align="center">
-  <img src="c5ee2be0-1cfd-11f1-b826-57be7c88f6db.png" alt="Banner de Mitologia" width="100%">
+  <img src="c5ee2be0-1cfd-11f1-b826-57be7c88f6db.png" alt="Banner" width="100%">
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
