@@ -51,7 +51,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-black?style=for-the-badge&logo=.net&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
