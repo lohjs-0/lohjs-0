@@ -1,10 +1,9 @@
-<!-- BANNER -->
+
 <div align="center">
   <p align="center">
   <img src="c5ee2be0-1cfd-11f1-b826-57be7c88f6db.png" alt="Banner" width="100%">
 </p>
 
-<!-- Typing terminal — fundo preto, texto branco -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL;loading...;Cybersecurity&background=000000"/>
 </p>
@@ -15,6 +14,7 @@
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=lohjs-0&style=for-the-badge"/>
 <img src="https://img.shields.io/github/commit-activity/y/lohjs-0/lohjs-0?style=for-the-badge"/>
 <img src="https://img.shields.io/github/last-commit/lohjs-0/lohjs-0?style=for-the-badge"/>
 <img src="https://img.shields.io/github/repo-size/lohjs-0/lohjs-0?style=for-the-badge"/>
@@ -66,7 +66,6 @@
 
 ---
 
-<!-- Gráfico de atividade — preto e branco puro -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohjs-0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </p>
