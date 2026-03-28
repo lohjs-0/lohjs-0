@@ -16,8 +16,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=lohjs-0&style=for-the-badge"/>
 <img src="https://img.shields.io/github/commit-activity/y/lohjs-0/lohjs-0?style=for-the-badge"/>
-<img src="https://img.shields.io/github/last-commit/lohjs-0/lohjs-0?style=for-the-badge"/>
-
+<img src="https://img.shields.io/github/repo-size/lohjs-0/lohjs-0?style=for-the-badge"/>
 </div>
 </div>
 
