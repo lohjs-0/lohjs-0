@@ -62,8 +62,23 @@
 
 <br>
 
+<div align="center">
+<h3>Statistics</h3>
+</div>
+
 ---
+
+<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lohjs-0&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200" />
+</div>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohjs-0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </p>
+
+</div>
