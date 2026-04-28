@@ -1,15 +1,17 @@
-
 <div align="center">
   <p align="center">
   <img src="c5ee2be0-1cfd-11f1-b826-57be7c88f6db.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL;loading...;Cybersecurity&background=000000"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity+Student;loading...&background=000000"/>
 </p>
+
+[
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohane.mdev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://portfolio-beryl-xi-50.vercel.app/)
 
 <div align="center">
 
@@ -24,10 +26,12 @@
 <p align="left">
   <img src="5905ba80-1cfc-11f1-b826-57be7c88f6db.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <p>Full Stack Developer in Training</p>
+  <p>Full Stack Developer & Cybersecurity Student</p>
 
-  Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, as well as <b>SQL databases</b>, 
-  and I have been applying this knowledge to personal projects, 
+  Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, <b>SQL databases</b>,
+  and <b>Cybersecurity</b>, exploring how to protect systems from the architecture 
+  to the data layer.
+  I have been applying this knowledge to personal projects, 
   developing applications that involve back-end, databases, and API 
   consumption on the front-end.
   <br><br>
@@ -44,9 +48,9 @@
 
 <div align="center">
 
+
+
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,6 +59,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-black?style=for-the-badge&logo=.net&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-black?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-black?style=for-the-badge&logo=pfSense&logoColor=white)
 
 </div>
 
