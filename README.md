@@ -1,13 +1,11 @@
 <div align="center">
   <p align="center">
-  <img src="c5ee2be0-1cfd-11f1-b826-57be7c88f6db.png" alt="Banner" width="100%">
+  <img src="Screenshot_20260428_181857_Gallery.jpg" alt="Banner" width="100%">
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL;Cybersecurity+Student;loading...&background=000000"/>
 </p>
-
-[
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohane.mdev@gmail.com)
