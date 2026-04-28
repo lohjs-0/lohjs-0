@@ -24,7 +24,7 @@
 <p align="left">
   <img src="file_00000000116871fb92dfb71961583a70.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <p>Full Stack Developer & Cybersecurity Student</p>
+  <p>Student FullStack Developer & Cybersecurity</p>
 
   Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, <b>SQL databases</b>,
   and <b>Cybersecurity</b>, exploring how to protect systems from the architecture 
