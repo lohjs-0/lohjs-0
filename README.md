@@ -75,6 +75,10 @@
 
 <p align="center">
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohjs-0&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d&border_color=2a2a2a"/>
+
+</br>
+  
   <img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lohjs-0&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200" />
 </div>
