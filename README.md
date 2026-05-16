@@ -22,7 +22,7 @@
 ---
 
 <p align="left">
-  <img src="file_00000000116871fb92dfb71961583a70.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="514fd8f5a53b85114592faeeed3bed6b.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <p>Student FullStack Developer & Cybersecurity</p>
 
