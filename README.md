@@ -75,7 +75,7 @@
 
 </br>
 
-<p align="left">
+<p align="right">
   <img src="b71d7a5d70d797e1eef107212b528084.jpg" align="left" width="220" style="margin-right: 20px;">
   <img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <br><br>
@@ -86,13 +86,9 @@
 
 <br clear="left">
 
-<br clear="left">
-
-<br clear="left">
-
-<br clear="left">
-
 <br>
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohjs-0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
