@@ -76,7 +76,7 @@
 </br>
 
 <p align="right">
-  <img src="b71d7a5d70d797e1eef107212b528084.jpg" align="left" width="220" style="margin-right: 20px;">
+  <img src="banner.jpg" align="left" width="220" style="margin-right: 20px;">
   <img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lohjs-0&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
