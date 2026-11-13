@@ -29,8 +29,6 @@
 
 ---
 
-### // THE OPERATOR`
-
 <img src="a1c8e5309f6622bb37754c13ebc35242.jpg" align="right" width="220" alt="Profile artwork">
 
 **`IDENTITY: SOFTWARE DEVELOPMENT STUDENT`**
@@ -60,8 +58,6 @@ I enjoy understanding not only how something works, but also **why it works, whe
 <br clear="right">
 
 ---
-
-### // TECH ARSENAL`
 
 <div align="center">
 
@@ -98,8 +94,6 @@ I enjoy understanding not only how something works, but also **why it works, whe
 
 ---
 
-
-### // ESTABLISH CONNECTION`
 
 <div align="center">
 
