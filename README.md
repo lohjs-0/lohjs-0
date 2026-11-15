@@ -42,8 +42,6 @@ I enjoy understanding not only how something works, but also **why it works, whe
 
 <br>
 
-**`CURRENT AREAS OF EXPLORATION`**
-
 - **Software Engineering:** Back-end architecture, REST APIs, databases, and system design.
 - **Cybersecurity:** Application security, network analysis, and digital forensics.
 - **Systems:** Linux, operating systems, virtualization, and system internals.
