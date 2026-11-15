@@ -111,8 +111,5 @@ Feel free to explore my repositories, exchange ideas, or get in touch.
 
 ---
 
-`[ SYSTEM ARCHIVE // END OF TRANSMISSION ]`
-
-<sub>Built with curiosity, caffeine, and an unreasonable number of open tabs.</sub>
 
 </div>
