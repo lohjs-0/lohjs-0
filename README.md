@@ -96,9 +96,6 @@ I enjoy understanding not only how something works, but also **why it works, whe
 
 <div align="center">
 
-Interested in software engineering, cybersecurity, digital forensics, or experimental technology?
-
-Feel free to explore my repositories, exchange ideas, or get in touch.
 
 <br><br>
 
