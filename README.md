@@ -30,10 +30,6 @@
 
 <img src="a1c8e5309f6622bb37754c13ebc35242.jpg" align="right" width="220" alt="Profile artwork">
 
-**`IDENTITY: SOFTWARE DEVELOPMENT STUDENT`**
-
-**`FOCUS: BACK-END ENGINEERING & CYBERSECURITY`**
-
 I'm a Software Development student interested in what happens beneath the surface of technology.
 
 My primary focus is **back-end development**, particularly **C#, ASP.NET Core, API architecture, databases, and application security**. I also work with front-end technologies to understand how systems connect from end to end.
