@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-100D10?style=for-the-badge&logo=linkedin&logoColor=DC3545)](https://www.linkedin.com/in/lohane-massão)
 [![Gmail](https://img.shields.io/badge/EMAIL-100D10?style=for-the-badge&logo=gmail&logoColor=DC3545)](mailto:lohane.mdev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-100D10?style=for-the-badge&logo=githubpages&logoColor=DC3545)](https://llohs.github.io/llohs-dev/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-100D10?style=for-the-badge&logo=githubpages&logoColor=DC3545)](https://lohjs-0.github.io/llohs-labs/)
 
 <br>
 
